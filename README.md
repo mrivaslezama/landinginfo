@@ -1,12 +1,42 @@
-# landinginfo
+# Landing Info
 
-github published in 
-https://mrivaslezama.github.io/landinginfo/
+A landing page project for Inforcap, showcasing courses and training programs.
 
-# cloning
+## 📱 Live Demo
 
-<!DOCTYPE html>
-<html lang="es-CL"><head>
+Visit the live site: [Landing Info](https://mrivaslezama.github.io/landinginfo/)
+
+## 💻 Setup & Installation
+
+1. Clone the repository:
+```bash
+git clone https://github.com/mrivaslezama/landinginfo.git
+```
+
+2. Navigate to the project directory:
+```bash 
+cd landinginfo
+```
+
+3. Open index.html in your browser to view the site locally
+
+## 🎓 About Inforcap
+
+Inforcap is a Technical Training Organization working in social and business areas focused on educational training. The platform offers:
+
+- In-person and online courses
+- Professional certifications 
+- Technical training programs
+- Digital talent development
+
+## 📞 Contact
+
+- Phone: +56 (9) 4422 4875
+- Email: info@inforcap.cl
+- Location: Gral. Carrera 312, Temuco, Araucanía
+
+---
+© 2024 Inforcap. All rights reserved.
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
 	<meta charset="UTF-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
